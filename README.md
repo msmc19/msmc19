@@ -47,8 +47,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide=issues&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide=html,css&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=msmc19&show_icons=true&hide=issues&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msmc19&layout=compact&hide=html,css&theme=default" />
 </p>
 <sup>*(Replace `YOUR_GITHUB_USERNAME` with your actual handle or use a self‑hosted stats card.)*</sup>
 
