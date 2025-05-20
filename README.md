@@ -64,9 +64,9 @@
 <details>
 <summary>✨ Fun facts</summary>
 
-- I can sauté, fry, bake, and grill faster than most ETL jobs finish.  
+- I just started golfing! (Please go easy on me. Ha!).  
 - Proud Tennessean who thrives on football weekends and thrift‑store treasure hunts.  
-- “Data driven” doesn’t just mean code — I optimize kitchen workflows, too.
+- “Data driven” doesn’t just mean code — I optimize my lifestyle being an avid gym goer having over 4+ years consistently active.
 </details>
 
 <!--  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
