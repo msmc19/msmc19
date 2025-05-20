@@ -30,7 +30,7 @@
 ### 🧰 Tech Toolbox
 | Languages | Data / DB | Frameworks &amp; Tools | Misc |
 |-----------|-----------|-----------------------|------|
-| Python&nbsp;🐍 · SQL · C++ · Java · x86 · RISC‑V | PostgreSQL · SQLite · Tableau | Jupyter · Google Colab · VS Code · Anaconda | Git · HTML/CSS · AutoCAD |
+| Python&nbsp; · SQL · C++ · Java | PostgreSQL · SQLite | Jupyter · Google Colab · VS Code · Tableau | Git · HTML/CSS |
 
 ---
 
