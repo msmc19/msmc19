@@ -23,7 +23,7 @@
 - 🏆 Dean’s List every semester, shift‑lead experience managing high‑pressure teams  
 - 💬 Ask me about data cleaning, SQL normalization, or turning messy CSVs into insight  
 - 🔗 **Portfolio:** <[https://marshall-portfolio-msmc19s-projects.vercel.app/](https://marshall-portfolio-2.vercel.app/)>  
-- 📄 **Résumé (PDF)** → [Download](https://marshall-portfolio-msmc19s-projects.vercel.app/Resume.pdf)  
+- 📄 **Résumé (PDF)** → [Download]([https://marshall-portfolio-msmc19s-projects.vercel.app/Resume.pdf](https://docs.google.com/document/d/1_A0xIGrHW5yKT_EbzmparX_yXbYXCYJS4za8r9oNEAc/edit?usp=sharing))  
 
 ---
 
