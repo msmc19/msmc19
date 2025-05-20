@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey there 👋, I'm Aaron Marshall</h1>
 <p align="center">
-  <em>Information Technology Major • Data &amp; Analytics Enthusiast • Lifelong Learner</em>
+  <em>Information Technology Graduate • Data &amp; Analytics Enthusiast • Lifelong Learner</em>
 </p>
 
 <div align="center">
