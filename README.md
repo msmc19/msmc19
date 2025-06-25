@@ -17,10 +17,9 @@
 
 ### 🚀 About Me
 - 🎓 **B.S. Information Science** (Data Information Management & Analytics)  
-  University of Tennessee — *GPA 3.83*  
+  University of Tennessee — *GPA 3.65*  
 - 🛠️ Crafting practical data pipelines &amp; full‑stack Python/PostgreSQL apps  
 - 🌱 Currently polishing my **fraud‑detection** project and exploring **cloud ETL**  
-- 🏆 Dean’s List every semester, shift‑lead experience managing high‑pressure teams  
 - 💬 Ask me about data cleaning, SQL normalization, or turning messy CSVs into insight  
 - 🔗 **Portfolio:** <[https://marshall-portfolio-msmc19s-projects.vercel.app/](https://marshall-portfolio-2.vercel.app/)>  
 - 📄 **Résumé (PDF)** → [Download](https://docs.google.com/document/d/1_A0xIGrHW5yKT_EbzmparX_yXbYXCYJS4za8r9oNEAc/edit?usp=sharing)  
@@ -55,7 +54,7 @@
 
 ### 🤝 Let’s Connect
 <p>
-  <a href="mailto:amarsh32@vols.utk.edu"><img src="https://img.shields.io/badge/Email-amarsh32@vols.utk.edu-red" /></a>
+  <a href="mailto:amarsh32@alum.utk.edu"><img src="https://img.shields.io/badge/Email-amarsh32@vols.utk.edu-red" /></a>
   <a href="https://www.linkedin.com/in/aaronmarshallit/"><img src="https://img.shields.io/badge/LinkedIn-Aaron Marshall-blue" /></a>
 </p>
 
