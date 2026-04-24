@@ -120,15 +120,6 @@ Normalized SQL schema spanning **Customers, Locations, Services, Equipment, and 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=msmc19&show_icons=true&hide=issues&theme=default&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msmc19&layout=compact&hide=html,css&theme=default" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to conversations about **data engineering, analytics architecture, and BI strategy** — whether it's collaborating on a project or learning new AI trends and systems.
