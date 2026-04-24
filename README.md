@@ -131,7 +131,7 @@ Normalized SQL schema spanning **Customers, Locations, Services, Equipment, and 
 
 ## 🤝 Let's Connect
 
-I'm always open to conversations about **data engineering, analytics architecture, and BI strategy** — whether it's collaborating on a project, comparing pipeline patterns, or just trading notes on dimensional modeling.
+I'm always open to conversations about **data engineering, analytics architecture, and BI strategy** — whether it's collaborating on a project or learning new AI trends and systems.
 
 <p align="center">
   <a href="mailto:amarsh32@alum.utk.edu"><img src="https://img.shields.io/badge/amarsh32@alum.utk.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
