@@ -37,7 +37,7 @@ I'm a data professional focused on the full analytics lifecycle — from raw ing
 - 🎓 **B.S. Information Science** — *Data Information Management & Analytics* (Minor: Data Science), University of Tennessee
 - 🏗️ Building **ELT/ETL pipelines**, **dimensional models**, and **CI/CD-orchestrated** data platforms
 - 🔐 Championing **data governance**, **RBAC**, and **lineage tracking** for compliant self-service analytics
-- 🌱 Currently deepening my work in **cloud data engineering** and **LLM-integrated analytics**
+- 🌱 Currently deepening my work in **AI Agents** and **LLM-integrated analytics**
 - 📍 Based in Brentwood, TN
 
 ---
