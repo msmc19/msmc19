@@ -5,7 +5,7 @@
 <h1 align="center">Aaron Marshall</h1>
 
 <p align="center">
-  <strong>Data Engineer &nbsp;·&nbsp; Analytics Developer &nbsp;·&nbsp; Information Scientist</strong><br/>
+  <strong>Data Engineer &nbsp;·&nbsp; Analytics Developer &nbsp;·&nbsp; Information Investigator</strong><br/>
   <em>Building reliable data pipelines, dimensional models, and BI solutions that turn raw data into decisions.</em>
 </p>
 
